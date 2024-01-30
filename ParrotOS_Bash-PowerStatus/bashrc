@@ -1,0 +1,30 @@
+# ~/.bashrc
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+# Colorize the prompt
+PS1='\u@\h:\w\$ '
+
+
+
+# Add custom aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Set PATH for user-specific binaries
+export PATH="$HOME/bin:$PATH"
+
+# Add custom environment variables if needed
+# export MY_VARIABLE="some_value"
+
+# Set your preferred text editor (replace nano with your editor of choice)
+export EDITOR="nano"
+eval "$(starship init bash)"
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+	fi
+	
