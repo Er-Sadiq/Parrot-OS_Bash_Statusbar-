@@ -1,14 +1,22 @@
-Parrot Powerline
-Parrot Powerline is a sleek and customizable Bash status indicator inspired by Powerline, 
-designed specifically for Parrot OS. Utilizing the power of Starship.rs, 
-this status line enhances your terminal experience with informative details and a visually appealing display. 
-Customize it to suit your preferences and workflow, making your Parrot OS terminal sessions both efficient and stylish.
 
-Features:
-Parrot OS specific information and symbols.
-Seamless integration with Starship.rs.
-Easily customizable to match your personal style.
-Enhance your command-line productivity with a glance.
+# Parrot OS Bash Status Indicator 
+
+
+Parrot Powerline is a sleek and customizable Bash status indicator inspired by Powerline, designed specifically for Parrot OS. Utilizing the power of Starship.rs, this status line enhances your terminal experience with informative details and a visually appealing display. Customize it to suit your preferences and workflow, making your Parrot OS terminal sessions both efficient and stylish.
+
+## Authors
+
+- [@Er-Sadiq-Killedar](https://github.com/Er-Sadiq)
+
+
+## Features
+
+- Parrot OS specific symbols
+- Seamless integration with Starship.rs
+- Easily customizable to match your personal style
+- Enhance your command-line productivity with a glance
+
+
 
 Preview:
 
